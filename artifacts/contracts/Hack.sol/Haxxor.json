@@ -1,0 +1,18 @@
+{
+  "_format": "hh-sol-artifact-1",
+  "contractName": "Haxxor",
+  "sourceName": "contracts/Hack.sol",
+  "abi": [
+    {
+      "inputs": [],
+      "name": "poop",
+      "outputs": [],
+      "stateMutability": "nonpayable",
+      "type": "function"
+    }
+  ],
+  "bytecode": "0x6080604052348015600f57600080fd5b5060848061001e6000396000f3fe6080604052348015600f57600080fd5b506004361060285760003560e01c80634a409e2f14602d575b600080fd5b60336035565b005b3373ffffffffffffffffffffffffffffffffffffffff16fffea26469706673582212203abe180c74c8da9e70e7e3bc4f7fa3b6ed4d1e5b824fa25f0df18a9aad3e635e64736f6c63430006090033",
+  "deployedBytecode": "0x6080604052348015600f57600080fd5b506004361060285760003560e01c80634a409e2f14602d575b600080fd5b60336035565b005b3373ffffffffffffffffffffffffffffffffffffffff16fffea26469706673582212203abe180c74c8da9e70e7e3bc4f7fa3b6ed4d1e5b824fa25f0df18a9aad3e635e64736f6c63430006090033",
+  "linkReferences": {},
+  "deployedLinkReferences": {}
+}
